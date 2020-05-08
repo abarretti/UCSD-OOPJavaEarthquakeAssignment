@@ -1,0 +1,25 @@
+INDEX VERSION 1.131+/Users/abarretti/Desktop/Java/UCSDUnfoldingMaps/.metadata/.plugins/org.eclipse.jdt.core
+1271342938.index
+3418277339.index
+1552408334.index
+998588009.index
+2017629745.index
+1273346042.index
+830571081.index
+3038990431.index
+1081459361.index
+1026401646.index
+1595360142.index
+1024419769.index
+382364349.index
+2332186387.index
+3571391171.index
+353243283.index
+63479062.index
+3506120572.index
+3433604322.index
+2460879720.index
+2338682979.index
+2197654083.index
+2847354745.index
+553399779.index

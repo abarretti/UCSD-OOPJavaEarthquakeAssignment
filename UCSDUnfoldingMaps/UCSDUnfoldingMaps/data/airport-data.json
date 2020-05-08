@@ -1,0 +1,7 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"name":"Berlin", "country" : "Germany", "coastal" : "false"},"geometry":{"type":"Point","coordinates":[13.383, 52.5167]}},
+{"type":"Feature","properties":{"name":"London", "country" : "UK", "coastal" : "false"},"geometry":{"type":"Point","coordinates":[-0.461389, 51.4775]}},
+{"type":"Feature","properties":{"name":"Newark", "country" : "USA", "coastal" : "false"},"geometry":{"type":"Point","coordinates":[-74.168667, 40.6925]}},
+{"type":"Feature","properties":{"name":"Los Angeles", "country" : "USA", "coastal" : "false"},"geometry":{"type":"Point","coordinates":[-118.408075, 33.942536]}},
+{"type":"Feature","properties":{"name":"Boston", "country" : "USA", "coastal" : "false"},"geometry":{"type":"Point","coordinates":[-71.0558, 42.35]}},
+]}
